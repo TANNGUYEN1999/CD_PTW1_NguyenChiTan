@@ -1,0 +1,64 @@
+$color1       : black;
+$color2       : #a95a43;
+$margin-bottom: 30px;
+$padding-top  : 30px;
+$font_style   : italic;
+
+.item {
+    margin-bottom: 60px;
+    margin-top   : 60px;
+    position     : relative;
+
+    .a2 {
+        text-align   : center;
+        margin-bottom: $margin-bottom;
+    }
+
+    .des {
+        text-decoration: none;
+        font-size      : 14px;
+        color          : $color1;
+        opacity        : 0.5;
+        font           : normal 16px / 26px "Roboto";
+    }
+
+    .tittle {
+        margin: 0 0 20px 0;
+        font  : normal 42px / 48px "PT Serif";
+    }
+
+    .a1 {
+        padding-top: $padding-top;
+
+        .list {
+            font-family: "Merriweather";
+
+            .external {
+                color          : $color2;
+                text-decoration: none;
+                font-weight    : 500;
+                font-size      : 16px;
+            }
+        }
+
+        .document {
+            columns   : 2;
+            column-gap: 30px;
+            margin    : 0 0 60px 0;
+
+            .enlarge {
+                font-size   : 50px;
+                float       : left;
+                line-height : 1;
+                margin-right: 10px;
+                font-family : "PT Serif";
+            }
+
+            .document1 {
+                columns    : 2;
+                font-size  : 16px;
+                line-height: 26px;
+            }
+        }
+    }
+}

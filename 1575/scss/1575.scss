@@ -1,0 +1,35 @@
+$color1   : black;
+$color2   : #a5a8aa;
+$font_size: 25px;
+
+.a1 {
+    font-family: "PT Serif";
+
+    .tittle {
+        margin    : 0 0 20px 0;
+        text-align: center;
+    }
+
+    .menu {
+        margin: 0 0 45px 0;
+
+        .menu1 {
+            margin-top: 50px;
+
+            .text-tittle {
+                line-height    : 1.2em;
+                text-decoration: none;
+                color          : $color1;
+            }
+
+            .text-date {
+                color         : $color2;
+                font-size     : $font_size;
+                opacity       : 0.5;
+                text-transform: uppercase;
+                display       : inline-block;
+                margin-top    : 10px;
+            }
+        }
+    }
+}

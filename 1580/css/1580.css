@@ -1,0 +1,37 @@
+.a1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #000;
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+  font: normal 16px / 26px "Roboto"; }
+  .a1 .tittle1 {
+    margin: 0 0 10px 0;
+    text-transform: uppercase; }
+    .a1 .tittle1 .text-tittle1 {
+      font-size: 70px; }
+  .a1 .tittle2 {
+    margin: 0 0 30px 0;
+    font: normal 16px / 22px "PT Serif"; }
+    .a1 .tittle2 .text-tittle2 {
+      font-size: 50px; }
+  .a1 .image-show {
+    width: 70%; }
+  .a1 .des {
+    margin: 20px 0 20px 0;
+    font-size: 30px;
+    padding: 20px 50px 20px 50px;
+    line-height: 2em; }
+  .a1 .btn1 {
+    border-style: solid;
+    padding: 10px 30px 10px 30px;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #000;
+    color: white; }
+  .a1 a:hover {
+    background: #a95a43; }

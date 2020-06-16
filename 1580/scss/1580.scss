@@ -1,0 +1,60 @@
+$color1: #000;
+$color2: #a95a43;
+$color3: white;
+
+.a1 {
+    margin-top   : 50px;
+    margin-bottom: 50px;
+    border-style : solid;
+    border-width : 1px 1px 1px 1px;
+    border-color : $color1;
+    padding      : 50px 50px 50px 50px;
+    text-align   : center;
+    font         : normal 16px / 26px "Roboto";
+
+    .tittle1 {
+        margin        : 0 0 10px 0;
+        text-transform: uppercase;
+
+        .text-tittle1 {
+            font-size: 70px;
+        }
+    }
+
+    .tittle2 {
+        margin: 0 0 30px 0;
+        font  : normal 16px / 22px "PT Serif";
+
+        .text-tittle2 {
+            font-size: 50px;
+        }
+    }
+
+    .image-show {
+        width: 70%;
+    }
+
+    .des {
+        margin     : 20px 0 20px 0;
+        font-size  : 30px;
+        padding    : 20px 50px 20px 50px;
+        line-height: 2em;
+    }
+
+    .btn1 {
+        border-style   : solid;
+        padding        : 10px 30px 10px 30px;
+        font-size      : 30px;
+        font-weight    : 500;
+        text-transform : uppercase;
+        text-decoration: none;
+        background     : $color1;
+        color          : $color3;
+
+    }
+
+    a:hover {
+        background: $color2;
+    }
+
+}

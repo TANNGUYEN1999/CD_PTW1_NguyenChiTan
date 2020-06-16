@@ -1,0 +1,39 @@
+.item {
+  margin-bottom: 60px;
+  margin-top: 60px;
+  position: relative; }
+  .item .a2 {
+    text-align: center;
+    margin-bottom: 30px; }
+  .item .des {
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    opacity: 0.5;
+    font: normal 16px / 26px "Roboto"; }
+  .item .tittle {
+    margin: 0 0 20px 0;
+    font: normal 42px / 48px "PT Serif"; }
+  .item .a1 {
+    padding-top: 30px; }
+    .item .a1 .list {
+      font-family: "Merriweather"; }
+      .item .a1 .list .external {
+        color: #a95a43;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 16px; }
+    .item .a1 .document {
+      columns: 2;
+      column-gap: 30px;
+      margin: 0 0 60px 0; }
+      .item .a1 .document .enlarge {
+        font-size: 50px;
+        float: left;
+        line-height: 1;
+        margin-right: 10px;
+        font-family: "PT Serif"; }
+      .item .a1 .document .document1 {
+        columns: 2;
+        font-size: 16px;
+        line-height: 26px; }

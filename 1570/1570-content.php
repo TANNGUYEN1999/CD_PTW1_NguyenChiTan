@@ -11,7 +11,7 @@
 
              <div class="row a1 ">
                  <div class="col-md-6">
-                     <img class="img-fluid" src="./images/bilyana-slaveykova-YYic682HAPI-unsplash-on4j36mx158vciobczu7wlcvzlt3lxomig7x4pi6ug.png" alt="" class="img_responsive">
+                     <img class="img-fluid" src="./images/bilyana-slaveykova-YYic682HAPI-unsplash-on4j36mx158vciobczu7wlcvzlt3lxomig7x4pi6ug.png" alt="">
                  </div>
                  <div class="col-md-6">
                      <div class="document">

@@ -10,7 +10,7 @@
                 Stylist & fashion editor
             </h5>
         </div>
-        <img class="img-fluid image-show" src="./images/wenyang-CY_c0cR01AQ-unsplash-768x1024.png" alt="" class="img-responsive">
+        <img class="img-fluid image-show" src="./images/wenyang-CY_c0cR01AQ-unsplash-768x1024.png" alt="">
         <div class="des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt recusandae voluptatem sed dignissimos sit cumque iusto! Corporis, labore? Id sequi magnam vel cum error adipisci nisi suscipit cumque!
         </div>
         <a class="btn1" href="">About me</a>

@@ -1,0 +1,65 @@
+.item {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+  .item .a1 .text-tittle1 {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+    .item .a1 .text-tittle1 .tittle5 {
+      font-weight: bold;
+      font-family: Roboto; }
+  .item .a1 .list {
+    margin-top: 30px;
+    margin-bottom: 30px; }
+    .item .a1 .list .icon2 {
+      font-size: 20px;
+      color: #88B44E; }
+    .item .a1 .list .info {
+      padding-left: 20px; }
+    .item .a1 .list .list1 {
+      margin-top: 15px;
+      margin-bottom: 15px; }
+  .item .a1 .icon1 {
+    font-size: 25px;
+    padding: 15px 20px 15px 20px;
+    border-color: black;
+    border-radius: 50%;
+    background: #88B44E;
+    margin: 0 5px 0 5px;
+    color: white; }
+.item .a2 .text-tittle2 {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+  .item .a2 .text-tittle2 .tittle6 {
+    font-weight: bold;
+    font-family: Roboto; }
+.item .a2 .textday {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px; }
+.item .a2 .opening-hourse {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+.item .a3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-width: 1px 1px 1px 1px;
+  background: #F5F8F2; }
+  .item .a3 .text-form {
+    padding: 45px; }
+    .item .a3 .text-form .text-tittle {
+      font-weight: bold; }
+    .item .a3 .text-form .text-input {
+      border-radius: 30px;
+      width: 100%;
+      padding: 10px 30px;
+      margin-bottom: 25px;
+      margin-top: 5px; }
+    .item .a3 .text-form .submit {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      text-align: center; }
+      .item .a3 .text-form .submit .btn {
+        border-radius: 20px;
+        background-color: #88B44E;
+        padding: 10px 50px 10px 50px;
+        color: white; }

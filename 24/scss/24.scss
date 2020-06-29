@@ -1,0 +1,119 @@
+$margin-top-20px   : 20px;
+$margin-bottom-20px: 20px;
+$margin-top-10px   : 10px;
+$margin-bottom-10px: 10px;
+$color1: #88B44E;
+$color2: white;
+$color3:#F5F8F2;
+$color4: black;
+
+.item {
+    margin-top   : $margin-top-20px;
+    margin-bottom: $margin-bottom-20px;
+
+    .a1 {
+        .text-tittle1 {
+            margin-top   : $margin-top-20px;
+            margin-bottom: $margin-bottom-20px;
+            .tittle5
+            {
+                font-weight: bold;
+                font-family: Roboto;
+            }
+        }
+
+        .list {
+            margin-top   : 30px;
+            margin-bottom: 30px;
+
+
+            .icon2 {
+                font-size: 20px;
+                color    : $color1;
+            }
+
+            .info {
+                padding-left: 20px;
+            }
+
+            .list1 {
+                margin-top   : 15px;
+                margin-bottom: 15px;
+            }
+        }
+
+        .icon1 {
+            font-size    : 25px;
+            padding      : 15px 20px 15px 20px;
+            border-color : $color4;
+            border-radius: 50%;
+            background   : $color1;
+            margin       : 0 5px 0 5px;
+            color        : $color2;
+        }
+
+
+    }
+
+
+    .a2 {
+        .text-tittle2 {
+            margin-top   : $margin-top-20px;
+            margin-bottom: $margin-bottom-20px;
+            .tittle6
+            {
+                font-weight: bold;
+                font-family: Roboto;
+            }
+        }
+
+        .textday {
+            font-weight  : bold;
+            margin-top   : 10px;
+            margin-bottom: 5px;
+        }
+
+        .opening-hourse {
+            margin-top   : $margin-top-10px;
+            margin-bottom: $margin-bottom-10px;
+        }
+    }
+
+    .a3 {
+        margin-top   : $margin-top-20px;
+        margin-bottom: $margin-bottom-20px;
+        border-width : 1px 1px 1px 1px;
+        background   : $color3;
+
+        .text-form {
+            padding: 45px;
+
+            .text-tittle {
+                font-weight: bold;
+            }
+
+            .text-input {
+                border-radius: 30px;
+                width        : 100%;
+                padding      : 10px 30px;
+                margin-bottom: 25px;
+                margin-top   : 5px;
+
+            }
+
+            .submit {
+                margin-top   : $margin-top-20px;
+                margin-bottom: $margin-bottom-20px;
+                text-align   : center;
+                .btn {
+                    border-radius   : 20px;
+                    background-color: $color1;
+                    padding         : 10px 50px 10px 50px;
+                    color           : $color2;
+                }
+            }
+        }
+
+
+    }
+}
